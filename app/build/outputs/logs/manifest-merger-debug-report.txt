@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\afeed0aafa6f00fbf759598d4d55f9de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\44daa2395ca465f58dffd3a01524d549\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\d5668e0f208cafae4e6073eef3bdd9b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\732732e721ed74f8073179240fca477f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\78a1b3aad7adfcc243cc3fcae79fea92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\39af33ff9ea7379ea719b2744bb51337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\62dd0b4d43380dbe05ddecc43a94bd68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2bdcedda1ecf36a0a31cbb7c364428f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\6f64afd05e3d7d00f1297d7cc8d5faeb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2051dd3ab6b096e99eca418e3ff16a4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7ce0df9dccbfabbec3ce4e35b89d644c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7279cd4dad0361c4b8aebc2064a38077\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:18:5-63
+application
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:21:5-41:19
+	android:supportsRtl
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.pictureinpicture.MainActivity
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:supportsPictureInPicture
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:31:13-52
+	android:configChanges
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.pictureinpicture.MediaSessionPlaybackActivity
+ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:37:9-39:55
+	android:supportsPictureInPicture
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:39:13-52
+	android:configChanges
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:38:13-91
+	android:name
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml:37:19-63
+uses-sdk
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\afeed0aafa6f00fbf759598d4d55f9de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\afeed0aafa6f00fbf759598d4d55f9de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\44daa2395ca465f58dffd3a01524d549\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\44daa2395ca465f58dffd3a01524d549\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\d5668e0f208cafae4e6073eef3bdd9b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\d5668e0f208cafae4e6073eef3bdd9b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\732732e721ed74f8073179240fca477f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\732732e721ed74f8073179240fca477f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\78a1b3aad7adfcc243cc3fcae79fea92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\78a1b3aad7adfcc243cc3fcae79fea92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\39af33ff9ea7379ea719b2744bb51337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\39af33ff9ea7379ea719b2744bb51337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\62dd0b4d43380dbe05ddecc43a94bd68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\62dd0b4d43380dbe05ddecc43a94bd68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2bdcedda1ecf36a0a31cbb7c364428f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2bdcedda1ecf36a0a31cbb7c364428f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\6f64afd05e3d7d00f1297d7cc8d5faeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\6f64afd05e3d7d00f1297d7cc8d5faeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2051dd3ab6b096e99eca418e3ff16a4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\2051dd3ab6b096e99eca418e3ff16a4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7ce0df9dccbfabbec3ce4e35b89d644c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7ce0df9dccbfabbec3ce4e35b89d644c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7279cd4dad0361c4b8aebc2064a38077\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HELLOEARTH\.gradle\caches\transforms-2\files-2.1\7279cd4dad0361c4b8aebc2064a38077\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HELLOEARTH\AndroidStudioProjects\android-PictureInPicture\app\src\main\AndroidManifest.xml
